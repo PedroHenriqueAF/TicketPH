@@ -90,7 +90,7 @@ body::before{
 }
 
 .arco--line{
-    position: relative;
+    position: fixed;
     min-height: 100dvh;
 }
 
