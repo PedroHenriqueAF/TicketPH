@@ -83,7 +83,7 @@ body{
 
 body::before{
     content: '';
-    position: fixed;
+    position: relative;
     z-index: -1;
     inset: 0;
     background-image: url('../assets/images/pattern-lines.svg');
