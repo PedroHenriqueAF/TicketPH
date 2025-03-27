@@ -116,6 +116,7 @@ body::before{
 .arco::before{
     background-size: min(50%,500px);
     background-position: right top;
+    position: relative;
     background-image: url('../assets/images/pattern-squiggly-line-top.svg');
 }   
 
